@@ -1,0 +1,49 @@
+.body{
+    background-color: white;
+}
+
+.arama{
+    background-color: rgb(188, 184, 184);
+    margin: 0px;
+    text-align: center;
+}
+
+.box1{
+    float: left;
+    text-align: center;
+    background-color: #7EE5DA;
+    font-size: 15px;
+    height: 88px;
+    width: 35%;
+    padding-top: 8px;
+}
+
+.box2{
+    float: left;
+    text-align: center;
+    background-color: #70CCC2;
+    font-size: 13px;
+    height: 96px;
+    width: 32%;
+}
+
+.box3{
+    float: left;
+    text-align: center;
+    background-color: #62B3AA;
+    font-size: 13px;
+    height: 87px;
+    width: 32%;
+    padding: 5px;
+    
+}
+
+.footer{
+    float: left;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin-top: 4px;
+    padding-top: 12px;
+    font-size: 13px;
+}
